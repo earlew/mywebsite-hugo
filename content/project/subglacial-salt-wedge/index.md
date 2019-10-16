@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Subglacial Salt Wedge"
+title: "Subglacial plume liftoff"
 subtitle: ""
-summary: "The dynamics of subglacial plume liftoff"
+summary: "The dynamics of a subglacial salt wedge"
 authors: []
 tags: []
 categories: []
@@ -28,8 +28,6 @@ image:
 projects: []
 ---
 
-## Subglacial plume liftoff
-
 **Collaborators**: Ian Hewitt, Andrew Wells, and Claudia Cenedese
 
 <figure>
@@ -46,7 +44,9 @@ To tackle this problem, we developed a theory that describes the steady-state dy
 
 Using these experimental results, we demonstrate that our two-layer theory is able to accurately capture the evolution of a salt wedge interface, provided suitable drag coefficients are used. Applying our theory to the geophysical scale, we find that typical subglacial outlets can support seawater intrusions on the order of several kilometers. This result suggests that the ocean has a strong tendency to undercut the face of marine-terminating glaciers.
 
-**Paper(s)**: "The dynamics of a subglacial salt wedge," Wilson, E, A. Wells, I. Hewitt, and C. Cenedese, *in prep* 
+**Note**: This is work was supported by the WHOI GFD program.
+
+**Publication(s)**: "The dynamics of a subglacial salt wedge," Wilson, E, A. Wells, I. Hewitt, and C. Cenedese, *in prep* 
 
 
 
