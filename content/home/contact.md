@@ -18,3 +18,4 @@ autolink = true
 email_form = 0
 +++
 
+The best way to reach me is via email.
