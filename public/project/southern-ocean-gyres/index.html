@@ -1,0 +1,801 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Earle Wilson">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The impact of polar gyre dynamics on poleward heat transport and Southern Ocean overturning.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://earlew.github.io/project/southern-ocean-gyres/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.4328da65e155d83fa0ef343b44a52976.css">
+
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://earlew.github.io/project/southern-ocean-gyres/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Earle Wilson">
+  <meta property="og:url" content="https://earlew.github.io/project/southern-ocean-gyres/">
+  <meta property="og:title" content="The polar gyres of the Southern Ocean | Earle Wilson">
+  <meta property="og:description" content="The impact of polar gyre dynamics on poleward heat transport and Southern Ocean overturning."><meta property="og:image" content="https://earlew.github.io/project/southern-ocean-gyres/featured.jpg">
+  <meta property="twitter:image" content="https://earlew.github.io/project/southern-ocean-gyres/featured.jpg"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-10-15T16:15:38-07:00">
+    
+    <meta property="article:modified_time" content="2019-10-15T16:15:38-07:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://earlew.github.io/project/southern-ocean-gyres/"
+  },
+  "headline": "The polar gyres of the Southern Ocean",
+  
+  "image": [
+    "https://earlew.github.io/project/southern-ocean-gyres/featured.jpg"
+  ],
+  
+  "datePublished": "2019-10-15T16:15:38-07:00",
+  "dateModified": "2019-10-15T16:15:38-07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Earle Wilson"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Earle Wilson",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://earlew.github.io/img/icon-512.png"
+    }
+  },
+  "description": "The impact of polar gyre dynamics on poleward heat transport and Southern Ocean overturning."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>The polar gyres of the Southern Ocean | Earle Wilson</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Earle Wilson</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#outreach"><span>Outreach</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>The polar gyres of the Southern Ocean</h1>
+
+  
+
+  
+    
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 15, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+<p><strong>Collaborators</strong>: Andrew Thompson</p>
+
+<h3 id="characterizing-the-transport-and-modification-of-circumpolar-deep-water-across-the-gyres-of-the-southern-ocean">Characterizing the transport and modification of Circumpolar Deep Water across the gyres of the Southern Ocean.</h3>
+
+<figure>
+<img src="/img/temp_map.jpg" width="500" height="500" align="middle" alt="A schematic illustrating the discharge of subglacial meltwater into the ocean.">
+<figcaption> Figure 1: Contour map of annual mean temper- ature between 200-1000 m derived from available shipboard and Argo float data. Green lines represent select contours of dynamic ocean topography from Armitage et al. (2018) for the Weddell and Ross Gyres. Dark contours show the ap- proximate position of the ACC. Annotated areas: Weddell Sea (WS), Bellingshausen Sea (BS), Amundsen Sea (AS) and Ross Sea (RS).</figcaption>
+</figure>
+
+<p>The  transport and modification of Circumpolar Deep Water (CDW) is a key component of the global ocean overturning circulation. CDW is primarily found within the Antarctic Circumpolar Current (ACC) and is a mixture of deep waters from all adjacent ocean basins. Under the influence of strong westerly winds and the Earth&rsquo;s rotation, this deep water flows upward towards the surface and subsequently splits into two branches: a northward branch, which eventually replenishes the deep waters formed in the northern Atlantic, and a southward branch that contributes to the formation of Antarctic Bottom Water. This work is mainly concerned with the southward branch that transports relatively warm CDW to the continental slope of Antarctica.</p>
+
+<figure>
+<img src="/img/gyre_schematic.jpg" width="500" height="500" align="middle" alt="gyre schematic.">
+<figcaption> Figure 2: Schematic illustrating the transport of deep ocean heat across the polar gyres of the Southern Ocean. Circles with dots indicate eastward flow (out of the screen) while circles with crosses indicate westard flow (into the screen). Squiggly arrows denote heat fluxes. Straighter arrows indicate the mean flow of selected water masses: Circumpolar Deep Water (CDW), modified Circumpolar Deep Water (mCDW), Antarctic Bottom Water (AABW). In the gyre region, the tau symbol represents the wind stress curl.</figcaption>
+</figure>
+
+<p>Though many studies have investigated the dynamics of the Ross and Weddell gyres in isolation, their role as delivery mechanisms for CDW remains largely unexplored. We are therefore missing a crucial link between the upwelling of the CDW in the ACC and its ultimate arrival as a cooler water mass along the continental slope of these gyres. To address this gap in our understanding, we aim to conduct a series process-based modeling studies to elucidate the key processes that control the modification of CDW across these gyres. In doing so, we seek to address the following questions</p>
+
+<ul>
+<li>What is the relative importance of wind-driven upwelling, isopycnal eddy stirring and surface buoyancy fluxes in setting the shape and depth of isopycnals across these gyres?</li>
+<li>How does poleward heat transport across these gyres respond to changes in surface heat, freshwater or momentum fluxes?</li>
+</ul>
+
+<p>Additionally, we hope that by tackling these questions we will gain deeper insight for the stark asymmetries between the Ross and Weddell gyres. In particualar, we seek to understand why the Weddell gyre is significantly cooler and more weakly stratified than the Ross gyre (see <a href="https://earlew.github.io/project/ice-ocean-feedbacks/" target="_blank">wintertime ice-ocean feedbacks</a>).</p>
+
+<h3 id="assessing-the-potential-importance-of-polar-gyre-asymmetry-in-the-southern-ocean-overturning">Assessing the potential importance of polar gyre asymmetry in the Southern Ocean overturning</h3>
+
+<p>In addition to providing a pathway for deep ocean heat transport to the Antarctic margin, the polar gyres of the Southern Ocean also play an important role in the upwelling of CDW and its transformation into either intermediate or abyssal. In this capacity, these gyres are crucial cogs in the overturning circulation of the Southern Ocean. A key aspect of these gyres is their tendency to flatten isopycnals within the ocean interior (Figure 2). However, this detail is often neglected in the canonical zonally-averaged view of the Southern Ocean residual overturning circulation, which typically assumes isopycnal slopes are uniform with latitude. Furthermore, the current overturning framework also neglects inter-basin asymmetries in ocean stratification. Poleward of the circumpolar current, isopycnal depths can differ by hundreds of meters at a given latitude, with the Weddell Sea having much shallower isopycnals than the Ross Sea. Thus the pathways of upwelled CDW differ substantially across the Ross and Weddell Seas.</p>
+
+<p>Since that water masses created within these gyres are exported globally, these regional asymmetries in stratification may have far-reaching effects for the overturning circulation of the global ocean. As before, we aim to diagnose the importance of the gyre asymmetries by using a suite of idealized models, ranging from simple box models to more complex general circulation models.</p>
+
+<p><strong>Publications</strong>: This is work in progress, so stay tuned!</p>
+
+    </div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu756ae419dca872ecfcac293f58082c63_42990_250x250_fill_q100_lanczos_center.jpg" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://earlew.github.io/">Earle Wilson</a></h5>
+      <h6 class="card-subtitle">Postdoctoral Scholar</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:earlew@caltech.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=UHSYElEAAAAJ&amp;hl=enuser=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/earlew" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+    
+
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+  </div>
+</article>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

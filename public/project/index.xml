@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Earle Wilson</title>
+    <link>https://earlew.github.io/project/</link>
+      <atom:link href="https://earlew.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 16:15:38 -0700</lastBuildDate>
+    <image>
+      <url>https://earlew.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://earlew.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>The polar gyres of the Southern Ocean</title>
+      <link>https://earlew.github.io/project/southern-ocean-gyres/</link>
+      <pubDate>Tue, 15 Oct 2019 16:15:38 -0700</pubDate>
+      <guid>https://earlew.github.io/project/southern-ocean-gyres/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;: Andrew Thompson&lt;/p&gt;
+
+&lt;h3 id=&#34;characterizing-the-transport-and-modification-of-circumpolar-deep-water-across-the-gyres-of-the-southern-ocean&#34;&gt;Characterizing the transport and modification of Circumpolar Deep Water across the gyres of the Southern Ocean.&lt;/h3&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;https://earlew.github.io/img/temp_map.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; align=&#34;middle&#34; alt=&#34;A schematic illustrating the discharge of subglacial meltwater into the ocean.&#34;&gt;
+&lt;figcaption&gt; Figure 1: Contour map of annual mean temper- ature between 200-1000 m derived from available shipboard and Argo float data. Green lines represent select contours of dynamic ocean topography from Armitage et al. (2018) for the Weddell and Ross Gyres. Dark contours show the ap- proximate position of the ACC. Annotated areas: Weddell Sea (WS), Bellingshausen Sea (BS), Amundsen Sea (AS) and Ross Sea (RS).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The  transport and modification of Circumpolar Deep Water (CDW) is a key component of the global ocean overturning circulation. CDW is primarily found within the Antarctic Circumpolar Current (ACC) and is a mixture of deep waters from all adjacent ocean basins. Under the influence of strong westerly winds and the Earth&amp;rsquo;s rotation, this deep water flows upward towards the surface and subsequently splits into two branches: a northward branch, which eventually replenishes the deep waters formed in the northern Atlantic, and a southward branch that contributes to the formation of Antarctic Bottom Water. This work is mainly concerned with the southward branch that transports relatively warm CDW to the continental slope of Antarctica.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;https://earlew.github.io/img/gyre_schematic.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; align=&#34;middle&#34; alt=&#34;gyre schematic.&#34;&gt;
+&lt;figcaption&gt; Figure 2: Schematic illustrating the transport of deep ocean heat across the polar gyres of the Southern Ocean. Circles with dots indicate eastward flow (out of the screen) while circles with crosses indicate westard flow (into the screen). Squiggly arrows denote heat fluxes. Straighter arrows indicate the mean flow of selected water masses: Circumpolar Deep Water (CDW), modified Circumpolar Deep Water (mCDW), Antarctic Bottom Water (AABW). In the gyre region, the tau symbol represents the wind stress curl.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Though many studies have investigated the dynamics of the Ross and Weddell gyres in isolation, their role as delivery mechanisms for CDW remains largely unexplored. We are therefore missing a crucial link between the upwelling of the CDW in the ACC and its ultimate arrival as a cooler water mass along the continental slope of these gyres. To address this gap in our understanding, we aim to conduct a series process-based modeling studies to elucidate the key processes that control the modification of CDW across these gyres. In doing so, we seek to address the following questions&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the relative importance of wind-driven upwelling, isopycnal eddy stirring and surface buoyancy fluxes in setting the shape and depth of isopycnals across these gyres?&lt;/li&gt;
+&lt;li&gt;How does poleward heat transport across these gyres respond to changes in surface heat, freshwater or momentum fluxes?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, we hope that by tackling these questions we will gain deeper insight for the stark asymmetries between the Ross and Weddell gyres. In particualar, we seek to understand why the Weddell gyre is significantly cooler and more weakly stratified than the Ross gyre (see &lt;a href=&#34;https://earlew.github.io/project/ice-ocean-feedbacks/&#34; target=&#34;_blank&#34;&gt;wintertime ice-ocean feedbacks&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h3 id=&#34;assessing-the-potential-importance-of-polar-gyre-asymmetry-in-the-southern-ocean-overturning&#34;&gt;Assessing the potential importance of polar gyre asymmetry in the Southern Ocean overturning&lt;/h3&gt;
+
+&lt;p&gt;In addition to providing a pathway for deep ocean heat transport to the Antarctic margin, the polar gyres of the Southern Ocean also play an important role in the upwelling of CDW and its transformation into either intermediate or abyssal. In this capacity, these gyres are crucial cogs in the overturning circulation of the Southern Ocean. A key aspect of these gyres is their tendency to flatten isopycnals within the ocean interior (Figure 2). However, this detail is often neglected in the canonical zonally-averaged view of the Southern Ocean residual overturning circulation, which typically assumes isopycnal slopes are uniform with latitude. Furthermore, the current overturning framework also neglects inter-basin asymmetries in ocean stratification. Poleward of the circumpolar current, isopycnal depths can differ by hundreds of meters at a given latitude, with the Weddell Sea having much shallower isopycnals than the Ross Sea. Thus the pathways of upwelled CDW differ substantially across the Ross and Weddell Seas.&lt;/p&gt;
+
+&lt;p&gt;Since that water masses created within these gyres are exported globally, these regional asymmetries in stratification may have far-reaching effects for the overturning circulation of the global ocean. As before, we aim to diagnose the importance of the gyre asymmetries by using a suite of idealized models, ranging from simple box models to more complex general circulation models.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;: This is work in progress, so stay tuned!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIE and SST variability in the Southern Ocean</title>
+      <link>https://earlew.github.io/project/sie-sst-variability/</link>
+      <pubDate>Tue, 15 Oct 2019 16:04:50 -0700</pubDate>
+      <guid>https://earlew.github.io/project/sie-sst-variability/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;collaborators&lt;/strong&gt;: Stephen Riser&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;https://earlew.github.io/img/SO_sie_sst_ts.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; align=&#34;middle&#34; alt=&#34;&#34;&gt;
+&lt;figcaption&gt; Figure showing Southern Ocean sea surface temperature (SST) and sea ice extent (SIE) variability over the past four decades. (a) Time series of monthly SST anomalies in the Southern Ocean (south of 50S) for the 1982--2018 period. (b) Time series of monthly Antarctic SIE anomalies between 1980--2018. SST data were sourced from the NOAA Optimum Interpolation Sea Surface Temperature V2 dataset. Sea ice data were sourced from monthly mean sea ice concentration estimates from version 3 of the CDR (NASA Team Algorithm). Monthly anomalies were computed relative to a 1980--2015 climatology. Both time series were smoothed with a three-month running mean filter. &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In stark contrast to the Arctic region, the Southern Ocean has experienced sea ice expansion and surface cooling over much of the past four decades. These decadal trends have been near-circumpolar in extent, with particularly intense cooling and ice growth occurring between 2000&amp;ndash;2015. Following a four year period that featured record-breaking sea ice expansion, these trends came to an abrupt halt in late 2016 when Antarctic sea ice extent (SIE) plummeted to record low levels. The dramatic loss in sea ice cover was accompanied by an equally stunning increase in sea surface temperature (SST), which peaked in early 2017 and led to one of the warmest Southern Ocean summers on record. While SSTs across the Southern Ocean returned to normal within a few months, Antarctic SIE has yet to recover from the losses it incurred in 2016.&lt;/p&gt;
+
+&lt;p&gt;For the final chapter of my PhD thesis, I diagnosed the drivers that led to these abrupt changes in SIE and SST.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;: &lt;em&gt;in prep&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Maud Rise Polynya</title>
+      <link>https://earlew.github.io/project/maud-rise-polynya/</link>
+      <pubDate>Tue, 15 Oct 2019 14:51:02 -0700</pubDate>
+      <guid>https://earlew.github.io/project/maud-rise-polynya/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;: &lt;a href=&#34;https://ethan-campbell.github.io&#34; target=&#34;_blank&#34;&gt;Ethan Campbell&lt;/a&gt; (lead author), Stephen Riser, Kent Moore, Casey E. Brayton, Matthew R. Mazloff, and Lynne D. Talley&lt;/p&gt;
+
+&lt;p&gt;During the austral winters of 2016 and 2017, large openings in the sea ice occurred in the Weddell Sea, near the Maud Rise sea mount. These openings, otherwise known as polynyas, were the largest to have appeared in the Southern Ocean since the late 1970s. More importantly, these polynyas occurred near two under-ice Argo floats. This coincidence granted us an unprecedented view of the upper ocean evolution during these polynya events.&lt;/p&gt;
+
+&lt;p&gt;By combining the float measurements with concurrent atmospheric reanalysis and remotely-sensed sea ice observations, we were able to pinpoint the preconditions and triggers that led to these events. In summary, we find that these events were due to a combination extremely weak upper ocean stratification, facilitated by anomalous upwelling, and exceptionally strong surface winds (see &lt;a href=&#34;https://earlew.github.io/project/ice-ocean-feedbacks/&#34; target=&#34;_blank&#34;&gt;wintertime ice-ocean feedbacks&lt;/a&gt; ). These factors led to the complete erosion of the main pycnocline and convection that extended deep into the ocean interior. The atmospheric conditions that led to the preconditioning of the water column and uptick in storm activity, were linked to decadal variations in the Southern Annular Mode (SAM).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication&lt;/strong&gt;: E. Campbell, Wilson, E. A., G. W. K. Moore, S. C. Riser, C. Brayton, M. R. Mazloff and L. Talley (2019), Southern Hemisphere climate anomalies drive Antarctic sea ice openings, Nature, 570, 319{325, doi: &lt;a href=&#34;https://www.nature.com/articles/s41586-019-1294-0&#34; target=&#34;_blank&#34;&gt;10.1038/s41586-019-1294-0&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subglacial Salt Wedge</title>
+      <link>https://earlew.github.io/project/subglacial-salt-wedge/</link>
+      <pubDate>Tue, 15 Oct 2019 14:43:52 -0700</pubDate>
+      <guid>https://earlew.github.io/project/subglacial-salt-wedge/</guid>
+      <description>
+
+&lt;h2 id=&#34;subglacial-plume-liftoff&#34;&gt;Subglacial plume liftoff&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;: Ian Hewitt, Andrew Wells, and Claudia Cenedese&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;https://earlew.github.io/img/subglacial_salt_wedge.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; align=&#34;middle&#34; alt=&#34;A schematic illustrating the discharge of subglacial meltwater into the ocean.&#34;&gt;
+&lt;figcaption&gt;A schematic illustrating the discharge of subglacial meltwater into the ocean. During summer months, the surface of a glacier may melt to form ponds on the ice surface. Much of this meltwater drains through crevasses in the ice and accumulate into streams that run along the base of the ice. For marine terminating glaciers, these subglacial streams eventually discharge into the ocean, forming buoyant turbulent plumes that rise along the face of the glacier. In this study, our primary concern is determining where this buoyant plume begins or alternatively finding the extent to which seawater may intrude a subglacial channel. &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;Marine-terminating glaciers, such as those along the coastline of Greenland, often release meltwater into the ocean in the form of subglacial discharge plumes. Though the existence of these plumes can dramatically alter the ice loss along the front of a glacier, the conditions surrounding their genesis remain poorly constrained. In particular, little is known about the geometry of subglacial outlets and the extent to which seawater may intrude into them.&lt;/p&gt;
+
+&lt;p&gt;To tackle this problem, we developed a theory that describes the steady-state dynamics of a salt wedge confined wihtin a rectangular channel. This approach makes the critical assumption that the dynamics near a subglacial outlet is fundamentally similar to that of a salt wedge estuary. This theory predicts the length of a non-entraining salt wedge as a function of the Froude number, the slope of the channel, and coefficients for interfacial and wall drag. In conjunction, we also carried out a series of idealized laboratory experiments, wherein freshwater was pumped through a narrow channel that is submerged within a larger tank of saline water.&lt;/p&gt;
+
+&lt;p&gt;Using these experimental results, we demonstrate that our two-layer theory is able to accurately capture the evolution of a salt wedge interface, provided suitable drag coefficients are used. Applying our theory to the geophysical scale, we find that typical subglacial outlets can support seawater intrusions on the order of several kilometers. This result suggests that the ocean has a strong tendency to undercut the face of marine-terminating glaciers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paper(s)&lt;/strong&gt;: &amp;ldquo;The dynamics of a subglacial salt wedge,&amp;rdquo; Wilson, E, A. Wells, I. Hewitt, and C. Cenedese, &lt;em&gt;in prep&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ice Ocean Feedbacks</title>
+      <link>https://earlew.github.io/project/ice-ocean-feedbacks/</link>
+      <pubDate>Tue, 15 Oct 2019 14:38:34 -0700</pubDate>
+      <guid>https://earlew.github.io/project/ice-ocean-feedbacks/</guid>
+      <description>
+
+&lt;h2 id=&#34;wintertime-feedbacks-between-sea-ice-and-the-upper-ocean-in-the-southern-ocean&#34;&gt;Wintertime feedbacks between sea ice and the upper ocean in the Southern Ocean&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;: Ethan Campbell, Stephen Riser, and Annie Wong&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;https://earlew.github.io/img/ice-ocean-feedbacks.jpg&#34; width=&#34;300&#34; height=&#34;300&#34; align=&#34;middle&#34;&gt;
+&lt;figcaption&gt;A schematic illustrating the coupling between wintertime ice growth and deep ocean ventilation in the Southern Ocean. As sea ice grows, it releases flux of salt to the ocean, F&lt;sub&gt;s&lt;/sub&gt;, which deepens the mixed layer and entrains heat from the thermocline, F&lt;sub&gt;ent&lt;/sub&gt;. This entrained heat is a negative feedback to ice growth. In extreme cases, this ventilted heat may melt the existing sea ice cover and create open-ocean polynyas.  
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The bulk of my thesis work was focused on the coupling between winter sea ice growth and deep ocean ventilation across the Southern Ocean sea ice zone. This coupling describes the negative feedback that occurs when sea ice growth triggers the entrainment of heat from the winter pycnocline. To characterize this process, I utilized recent recently collected under-ice upper ocean data, mainly from Argo floats and instrumented seals. This was one of the first few studies to explore this under-ice dataset in its entirety. It was also the first circumpolar evaluation of wintertime sea ice-ocean feedbacks in the Southern Ocean&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;https://earlew.github.io/img/pycnocline_heat_availability.jpg&#34; width=&#34;400&#34; height=&#34;400&#34; align=&#34;middle&#34;&gt;
+&lt;figcaption&gt; Figure showing the ratio of vertical temperature and salinity difference across the winter pycnocline in the Antarctic sea ice zone. Red colors highlight areas where the halocline is relatively weak and the thermocline is relatively strong. Temperature and salinity measurements represent bin-averaged profile data from under-ice Argo floats, instrumented seals, and shipboard measurements.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One key revelation from this work is that the thermodynamic coupling between winter sea ice growth and ocean ventilation varies significantly across the sea ice zone. On one extreme is the southeastern Weddell Sea, near Maud Rise, which features a weak halocline but a relatively strong thermocline. Here, the coupling between winter sea ice growth and thermocline ventilation is especially strong. Under normal conditions, the heat that is entrained into the mixed layer is strong enough to neutralize the surface cooling by the atmosphere. At the other extreme are the strongly stratified regions near the sea ice edge, where heat entrainment is so weak that sea ice growth is essentially decoupled from the deep ocean. Since prior studies on this subject have largely been focused on the Weddell Sea, this observational analysis provides a more nuanced understanding of under-ice processes in the Southern Ocean.&lt;/p&gt;
+
+&lt;p&gt;Another aspect of this works explores the circumstances under which heat fluxes from the deep ocean may eliminate the winter ice cover and lead to the formation of a winter polynya. This was done carrying out idealized experiments using 1-D sea ice-ocean model. From these simulations, we find that offshore winter polynyas are only feasible in the eastern Weddell Sea. Even then, the initiation of a winter polynya in this region requires a culmination of extreme circumstances, specifically the abrupt application of storm-force winds over an abnormally weak halocline.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publication&lt;/strong&gt;: Wilson, E. A., S. C. Riser, A. Wong and E. C. Campbell (2019), Winter upper ocean stability and ice-ocean feedbacks in the sea-ice-covered Southern Ocean, &lt;em&gt;Journal of Physical Oceanography&lt;/em&gt;, &lt;strong&gt;49&lt;/strong&gt;, 1099&amp;ndash;1117, doi:&lt;a href=&#34;https://journals.ametsoc.org/doi/10.1175/JPO-D-18-0184.1&#34; target=&#34;_blank&#34;&gt;10.1175/JPO-D-18-0184.1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

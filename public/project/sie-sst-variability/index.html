@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Earle Wilson">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Drivers of recent changes in sea ice extent (SIE) and sea surface temperature (SST) variability in the Southern Ocean">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://earlew.github.io/project/sie-sst-variability/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.4328da65e155d83fa0ef343b44a52976.css">
+
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://earlew.github.io/project/sie-sst-variability/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Earle Wilson">
+  <meta property="og:url" content="https://earlew.github.io/project/sie-sst-variability/">
+  <meta property="og:title" content="SIE and SST variability in the Southern Ocean | Earle Wilson">
+  <meta property="og:description" content="Drivers of recent changes in sea ice extent (SIE) and sea surface temperature (SST) variability in the Southern Ocean"><meta property="og:image" content="https://earlew.github.io/project/sie-sst-variability/featured.jpg">
+  <meta property="twitter:image" content="https://earlew.github.io/project/sie-sst-variability/featured.jpg"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-10-15T16:04:50-07:00">
+    
+    <meta property="article:modified_time" content="2019-10-15T19:04:50-07:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://earlew.github.io/project/sie-sst-variability/"
+  },
+  "headline": "SIE and SST variability in the Southern Ocean",
+  
+  "image": [
+    "https://earlew.github.io/project/sie-sst-variability/featured.jpg"
+  ],
+  
+  "datePublished": "2019-10-15T16:04:50-07:00",
+  "dateModified": "2019-10-15T19:04:50-07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Earle Wilson"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Earle Wilson",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://earlew.github.io/img/icon-512.png"
+    }
+  },
+  "description": "Drivers of recent changes in sea ice extent (SIE) and sea surface temperature (SST) variability in the Southern Ocean"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>SIE and SST variability in the Southern Ocean | Earle Wilson</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Earle Wilson</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#outreach"><span>Outreach</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>SIE and SST variability in the Southern Ocean</h1>
+
+  
+
+  
+    
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Oct 15, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><strong>collaborators</strong>: Stephen Riser</p>
+
+<figure>
+<img src="/img/SO_sie_sst_ts.jpg" width="500" height="500" align="middle" alt="">
+<figcaption> Figure showing Southern Ocean sea surface temperature (SST) and sea ice extent (SIE) variability over the past four decades. (a) Time series of monthly SST anomalies in the Southern Ocean (south of 50S) for the 1982--2018 period. (b) Time series of monthly Antarctic SIE anomalies between 1980--2018. SST data were sourced from the NOAA Optimum Interpolation Sea Surface Temperature V2 dataset. Sea ice data were sourced from monthly mean sea ice concentration estimates from version 3 of the CDR (NASA Team Algorithm). Monthly anomalies were computed relative to a 1980--2015 climatology. Both time series were smoothed with a three-month running mean filter. </figcaption>
+</figure>
+
+<p>In stark contrast to the Arctic region, the Southern Ocean has experienced sea ice expansion and surface cooling over much of the past four decades. These decadal trends have been near-circumpolar in extent, with particularly intense cooling and ice growth occurring between 2000&ndash;2015. Following a four year period that featured record-breaking sea ice expansion, these trends came to an abrupt halt in late 2016 when Antarctic sea ice extent (SIE) plummeted to record low levels. The dramatic loss in sea ice cover was accompanied by an equally stunning increase in sea surface temperature (SST), which peaked in early 2017 and led to one of the warmest Southern Ocean summers on record. While SSTs across the Southern Ocean returned to normal within a few months, Antarctic SIE has yet to recover from the losses it incurred in 2016.</p>
+
+<p>For the final chapter of my PhD thesis, I diagnosed the drivers that led to these abrupt changes in SIE and SST.</p>
+
+<p><strong>Publications</strong>: <em>in prep</em></p>
+
+    </div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu756ae419dca872ecfcac293f58082c63_42990_250x250_fill_q100_lanczos_center.jpg" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://earlew.github.io/">Earle Wilson</a></h5>
+      <h6 class="card-subtitle">Postdoctoral Scholar</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:earlew@caltech.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=UHSYElEAAAAJ&amp;hl=enuser=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/earlew" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+    
+
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+  </div>
+</article>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

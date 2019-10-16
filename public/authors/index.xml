@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Earle Wilson</title>
+    <link>https://earlew.github.io/authors/</link>
+      <atom:link href="https://earlew.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://earlew.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://earlew.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://earlew.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://earlew.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a postdoctoral scholar at the California Institute of Technology, &lt;a href=&#34;http://www.gps.caltech.edu&#34; target=&#34;_blank&#34;&gt;Division of Geological and Planetary Sciences&lt;/a&gt;. I am interested in ocean dynamics, ice-ocean interactions, sea ice variability, and high-latitude climate change.&lt;/p&gt;
+
+&lt;p&gt;For my PhD thesis, I studied sea ice-ocean interactions around Antarctica, using under-ice ocean data collected by Argo floats and instrumented seals as well as idealized ice-ocean models.&lt;/p&gt;
+
+&lt;p&gt;For my postdoctoral research, I am working with &lt;a href=&#34;http://web.gps.caltech.edu/~andrewt/index.html&#34; target=&#34;_blank&#34;&gt;Professor Andrew Thompson&lt;/a&gt; to assess the impact of polar gyre dynamics on poleward heat transport and Southern Ocean overturning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
