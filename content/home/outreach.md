@@ -14,4 +14,4 @@ In 2016, I participated in the six-week long I08S GO SHIP cruise. In coordinatio
 
 ---
 
-I am currently a science communication fellow at the [Seattle Pacific Science Center](https://www.pacificsciencecenter.org/planetarium/). I have designed and presented multiple planetarium shows that describe doing observational oceanography in the Southern Ocean 
+I am currently a science communication fellow at the [Seattle Pacific Science Center](https://www.pacificsciencecenter.org/planetarium/). I have designed and presented multiple planetarium shows that showcase observational fieldword in the Southern Ocean 
