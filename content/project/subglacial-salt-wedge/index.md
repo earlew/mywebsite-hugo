@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-**Collaborators**: Ian Hewitt, Andrew Wells, and Claudia Cenedese
+**Collaborators**: [Ian Hewitt](https://people.maths.ox.ac.uk/hewitt/), [Andrew Wells](https://www2.physics.ox.ac.uk/contacts/people/wellsa), and [Claudia Cenedese](https://www2.whoi.edu/staff/ccenedese/)
 
 <figure>
 <img src="/img/subglacial_salt_wedge.jpg" width="500" height="500" align="middle" alt="A schematic illustrating the discharge of subglacial meltwater into the ocean.">
@@ -40,11 +40,11 @@ projects: []
 
 Marine-terminating glaciers, such as those along the coastline of Greenland, often release meltwater into the ocean in the form of subglacial discharge plumes. Though the existence of these plumes can dramatically alter the ice loss along the front of a glacier, the conditions surrounding their genesis remain poorly constrained. In particular, little is known about the geometry of subglacial outlets and the extent to which seawater may intrude into them. 
 
-To tackle this problem, we developed a theory that describes the steady-state dynamics of a salt wedge confined wihtin a rectangular channel. This approach makes the critical assumption that the dynamics near a subglacial outlet is fundamentally similar to that of a salt wedge estuary. This theory predicts the length of a non-entraining salt wedge as a function of the Froude number, the slope of the channel, and coefficients for interfacial and wall drag. In conjunction, we also carried out a series of idealized laboratory experiments, wherein freshwater was pumped through a narrow channel that is submerged within a larger tank of saline water. 
+To tackle this problem, we developed a theory that describes the steady-state dynamics of a salt wedge confined within a rectangular channel. This approach makes the critical assumption that the dynamics near a subglacial outlet is fundamentally similar to that of a salt wedge estuary. This theory predicts the length of a non-entraining salt wedge as a function of the Froude number, the slope of the channel, and coefficients for interfacial and wall drag. In conjunction, we also carried out a series of idealized laboratory experiments, wherein freshwater was pumped through a narrow channel that is submerged within a larger tank of saline water. 
 
 Using these experimental results, we demonstrate that our two-layer theory is able to accurately capture the evolution of a salt wedge interface, provided suitable drag coefficients are used. Applying our theory to the geophysical scale, we find that typical subglacial outlets can support seawater intrusions on the order of several kilometers. This result suggests that the ocean has a strong tendency to undercut the face of marine-terminating glaciers.
 
-**Note**: This is work was supported by the WHOI GFD program.
+**Note**: This work was supported by the WHOI GFD program.
 
 **Publication(s)**: "The dynamics of a subglacial salt wedge," Wilson, E, A. Wells, I. Hewitt, and C. Cenedese, *in prep* 
 
