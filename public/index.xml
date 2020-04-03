@@ -19,7 +19,7 @@
       <guid>https://earlew.github.io/project/southern-ocean-gyres/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;: Andrew Thompson&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;: Andrew Thompson, Andrew Stewart, Shantong Sun&lt;/p&gt;
 
 &lt;h3 id=&#34;characterizing-the-transport-and-modification-of-circumpolar-deep-water-across-the-gyres-of-the-southern-ocean&#34;&gt;Characterizing the transport and modification of Circumpolar Deep Water across the gyres of the Southern Ocean.&lt;/h3&gt;
 
@@ -35,18 +35,19 @@
 &lt;figcaption&gt; Figure 2: Schematic illustrating the transport of deep ocean heat across the polar gyres of the Southern Ocean. Circles with dots indicate eastward flow (out of the screen) while circles with crosses indicate westard flow (into the screen). Squiggly arrows denote heat fluxes. Straighter arrows indicate the mean flow of selected water masses: Circumpolar Deep Water (CDW), modified Circumpolar Deep Water (mCDW), Antarctic Bottom Water (AABW). In the gyre region, the tau symbol represents the wind stress curl.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Though many studies have investigated the dynamics of the Ross and Weddell gyres in isolation, their role as delivery mechanisms for CDW remains largely unexplored.  To address this gap in our understanding, we aim to conduct a series of process-based modeling studies to elucidate the key processes that control the modification of CDW across these gyres. In doing so, we seek to address the following questions&lt;/p&gt;
+&lt;p&gt;Though many studies have investigated the dynamics of the Ross and Weddell gyres in isolation, their role as delivery mechanisms for CDW remains largely unexplored.  To address this gap in our understanding, we aim to conduct a series of process-based modeling studies to elucidate the key processes that control the modification of CDW across these gyres. In doing so, we seek to address the following questions:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;What is the relative importance of wind-driven upwelling, isopycnal eddy stirring and surface buoyancy fluxes in setting the shape and depth of isopycnals across these gyres?&lt;/li&gt;
 &lt;li&gt;How does poleward heat transport across these gyres respond to changes in surface heat, freshwater or momentum fluxes?&lt;/li&gt;
+&lt;li&gt;How do the asymmetries in the size and stratification of the Ross and Weddell gyres impact the overturning circulation of the Southern Ocean?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;assessing-the-potential-importance-of-polar-gyre-asymmetry-in-the-southern-ocean-overturning&#34;&gt;Assessing the potential importance of polar gyre asymmetry in the Southern Ocean overturning&lt;/h3&gt;
+&lt;!--### Assessing the potential importance of polar gyre asymmetry in the Southern Ocean overturning
 
-&lt;p&gt;In addition to providing a pathway for deep ocean heat transport to the Antarctic margin, the polar gyres of the Southern Ocean also play an important role in the upwelling of CDW and its transformation into either intermediate or abyssal. In this capacity, these gyres are crucial cogs in the overturning circulation of the Southern Ocean. A key aspect of these gyres is their tendency to flatten isopycnals within the ocean interior (Figure 2). However, this detail is often neglected in the canonical zonally-averaged view of the Southern Ocean residual overturning circulation, which typically assumes isopycnal slopes are uniform with latitude. Furthermore, the current overturning framework also neglects inter-basin asymmetries in ocean stratification. Poleward of the circumpolar current, isopycnal depths can differ by hundreds of meters at a given latitude, with the Weddell Sea having much shallower isopycnals than the Ross Sea. Thus, the pathways of upwelled CDW differ substantially across the Ross and Weddell Seas.&lt;/p&gt;
+In addition to providing a pathway for deep ocean heat transport to the Antarctic margin, the polar gyres of the Southern Ocean also play an important role in the upwelling of CDW and its transformation into either intermediate or abyssal. In this capacity, these gyres are crucial cogs in the overturning circulation of the Southern Ocean. A key aspect of these gyres is their tendency to flatten isopycnals within the ocean interior (Figure 2). However, this detail is often neglected in the canonical zonally-averaged view of the Southern Ocean residual overturning circulation, which typically assumes isopycnal slopes are uniform with latitude. Furthermore, the current overturning framework also neglects inter-basin asymmetries in ocean stratification. Poleward of the circumpolar current, isopycnal depths can differ by hundreds of meters at a given latitude, with the Weddell Sea having much shallower isopycnals than the Ross Sea. Thus, the pathways of upwelled CDW differ substantially across the Ross and Weddell Seas. 
 
-&lt;p&gt;Since that water masses created within these gyres are exported globally, these regional asymmetries in stratification may have far-reaching effects for the overturning circulation of the global ocean. As before, we aim to diagnose the importance of the gyre asymmetries by using a suite of idealized models, ranging from simple box models to more complex general circulation models.&lt;/p&gt;
+Since that water masses created within these gyres are exported globally, these regional asymmetries in stratification may have far-reaching effects on the overturning circulation of the global ocean. As before, we aim to diagnose the importance of the gyre asymmetries by using a suite of idealized models, ranging from simple box models to more complex general circulation models.--&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;: We are at the beginning stages of this project, so stay tuned!&lt;/p&gt;
 </description>
@@ -57,7 +58,7 @@
       <link>https://earlew.github.io/project/sie-sst-variability/</link>
       <pubDate>Tue, 15 Oct 2019 16:04:50 -0700</pubDate>
       <guid>https://earlew.github.io/project/sie-sst-variability/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;collaborators&lt;/strong&gt;: Stephen Riser&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;: Stephen Riser&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&#34;https://earlew.github.io/img/SO_sie_sst_ts.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; align=&#34;middle&#34; alt=&#34;&#34;&gt;
@@ -97,8 +98,8 @@
 &lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;: &lt;a href=&#34;https://people.maths.ox.ac.uk/hewitt/&#34; target=&#34;_blank&#34;&gt;Ian Hewitt&lt;/a&gt;, &lt;a href=&#34;https://www2.physics.ox.ac.uk/contacts/people/wellsa&#34; target=&#34;_blank&#34;&gt;Andrew Wells&lt;/a&gt;, and &lt;a href=&#34;https://www2.whoi.edu/staff/ccenedese/&#34; target=&#34;_blank&#34;&gt;Claudia Cenedese&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&#34;https://earlew.github.io/img/subglacial_salt_wedge.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; align=&#34;middle&#34; alt=&#34;A schematic illustrating the discharge of subglacial meltwater into the ocean.&#34;&gt;
-&lt;figcaption&gt;A schematic illustrating the discharge of subglacial meltwater into the ocean. During summer months, the surface of a glacier may melt to form ponds on the ice surface. Much of this meltwater drains through crevasses in the ice and accumulate into streams that run along the base of the ice. For marine terminating glaciers, these subglacial streams eventually discharge into the ocean, forming buoyant turbulent plumes that rise along the face of the glacier. In this study, our primary concern is determining where this buoyant plume begins or alternatively finding the extent to which seawater may intrude a subglacial channel. &lt;/figcaption&gt;
+&lt;img src=&#34;https://earlew.github.io/img/subglacial_salt_wedge.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; align=&#34;middle&#34; alt=&#34;A schematic illustrating the discharge of subglacial meltwater into the ocean.&#34;&gt;
+&lt;figcaption&gt;A schematic illustrating the pathways of subglacial meltwater. During summer months, the surface of a glacier may melt to form ponds on the ice surface. Much of this meltwater drains through crevasses in the ice and accumulate into streams that run along the base of the ice. For marine terminating glaciers, these subglacial streams eventually discharge into the ocean, forming buoyant turbulent plumes that rise along the face of the glacier. In this study, our primary concern is determining where this buoyant plume begins or alternatively finding the extent to which seawater may intrude a subglacial channel. &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;

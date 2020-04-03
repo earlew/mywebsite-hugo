@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-**Collaborators**: Andrew Thompson
+**Collaborators**: Andrew Thompson, Andrew Stewart, Shantong Sun
 
 ### Characterizing the transport and modification of Circumpolar Deep Water across the gyres of the Southern Ocean.
 
@@ -45,17 +45,17 @@ The  transport and modification of Circumpolar Deep Water (CDW) is a key compone
 <figcaption> Figure 2: Schematic illustrating the transport of deep ocean heat across the polar gyres of the Southern Ocean. Circles with dots indicate eastward flow (out of the screen) while circles with crosses indicate westard flow (into the screen). Squiggly arrows denote heat fluxes. Straighter arrows indicate the mean flow of selected water masses: Circumpolar Deep Water (CDW), modified Circumpolar Deep Water (mCDW), Antarctic Bottom Water (AABW). In the gyre region, the tau symbol represents the wind stress curl.</figcaption>
 </figure>
 
-Though many studies have investigated the dynamics of the Ross and Weddell gyres in isolation, their role as delivery mechanisms for CDW remains largely unexplored.  To address this gap in our understanding, we aim to conduct a series of process-based modeling studies to elucidate the key processes that control the modification of CDW across these gyres. In doing so, we seek to address the following questions
+Though many studies have investigated the dynamics of the Ross and Weddell gyres in isolation, their role as delivery mechanisms for CDW remains largely unexplored.  To address this gap in our understanding, we aim to conduct a series of process-based modeling studies to elucidate the key processes that control the modification of CDW across these gyres. In doing so, we seek to address the following questions:
 
 * What is the relative importance of wind-driven upwelling, isopycnal eddy stirring and surface buoyancy fluxes in setting the shape and depth of isopycnals across these gyres? 
 * How does poleward heat transport across these gyres respond to changes in surface heat, freshwater or momentum fluxes? 
+* How do the asymmetries in the size and stratification of the Ross and Weddell gyres impact the overturning circulation of the Southern Ocean?
 
-
-### Assessing the potential importance of polar gyre asymmetry in the Southern Ocean overturning
+<!--### Assessing the potential importance of polar gyre asymmetry in the Southern Ocean overturning
 
 In addition to providing a pathway for deep ocean heat transport to the Antarctic margin, the polar gyres of the Southern Ocean also play an important role in the upwelling of CDW and its transformation into either intermediate or abyssal. In this capacity, these gyres are crucial cogs in the overturning circulation of the Southern Ocean. A key aspect of these gyres is their tendency to flatten isopycnals within the ocean interior (Figure 2). However, this detail is often neglected in the canonical zonally-averaged view of the Southern Ocean residual overturning circulation, which typically assumes isopycnal slopes are uniform with latitude. Furthermore, the current overturning framework also neglects inter-basin asymmetries in ocean stratification. Poleward of the circumpolar current, isopycnal depths can differ by hundreds of meters at a given latitude, with the Weddell Sea having much shallower isopycnals than the Ross Sea. Thus, the pathways of upwelled CDW differ substantially across the Ross and Weddell Seas. 
 
-Since that water masses created within these gyres are exported globally, these regional asymmetries in stratification may have far-reaching effects for the overturning circulation of the global ocean. As before, we aim to diagnose the importance of the gyre asymmetries by using a suite of idealized models, ranging from simple box models to more complex general circulation models.
+Since that water masses created within these gyres are exported globally, these regional asymmetries in stratification may have far-reaching effects on the overturning circulation of the global ocean. As before, we aim to diagnose the importance of the gyre asymmetries by using a suite of idealized models, ranging from simple box models to more complex general circulation models.-->
 
 **Publications**: We are at the beginning stages of this project, so stay tuned!
 

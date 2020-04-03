@@ -31,8 +31,8 @@ projects: []
 **Collaborators**: [Ian Hewitt](https://people.maths.ox.ac.uk/hewitt/), [Andrew Wells](https://www2.physics.ox.ac.uk/contacts/people/wellsa), and [Claudia Cenedese](https://www2.whoi.edu/staff/ccenedese/)
 
 <figure>
-<img src="/img/subglacial_salt_wedge.jpg" width="500" height="500" align="middle" alt="A schematic illustrating the discharge of subglacial meltwater into the ocean.">
-<figcaption>A schematic illustrating the discharge of subglacial meltwater into the ocean. During summer months, the surface of a glacier may melt to form ponds on the ice surface. Much of this meltwater drains through crevasses in the ice and accumulate into streams that run along the base of the ice. For marine terminating glaciers, these subglacial streams eventually discharge into the ocean, forming buoyant turbulent plumes that rise along the face of the glacier. In this study, our primary concern is determining where this buoyant plume begins or alternatively finding the extent to which seawater may intrude a subglacial channel. </figcaption>
+<img src="/img/subglacial_salt_wedge.jpg" width="600" height="600" align="middle" alt="A schematic illustrating the discharge of subglacial meltwater into the ocean.">
+<figcaption>A schematic illustrating the pathways of subglacial meltwater. During summer months, the surface of a glacier may melt to form ponds on the ice surface. Much of this meltwater drains through crevasses in the ice and accumulate into streams that run along the base of the ice. For marine terminating glaciers, these subglacial streams eventually discharge into the ocean, forming buoyant turbulent plumes that rise along the face of the glacier. In this study, our primary concern is determining where this buoyant plume begins or alternatively finding the extent to which seawater may intrude a subglacial channel. </figcaption>
 </figure>
 
 

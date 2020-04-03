@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-**collaborators**: Stephen Riser
+**Collaborators**: Stephen Riser
 
 <figure>
 <img src="/img/SO_sie_sst_ts.jpg" width="500" height="500" align="middle" alt="">
