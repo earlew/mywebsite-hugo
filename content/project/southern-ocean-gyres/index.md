@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The dynamics of subpolar gyres of the Southern Ocean"
+title: "Subpolar gyres"
 subtitle: ""
-summary: "The impact of polar gyre dynamics on poleward heat transport and Southern Ocean overturning."
+summary: "The dynamics of subpolar gyres in the Southern Ocean."
 authors: []
 tags: []
 categories: []

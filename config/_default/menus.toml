@@ -40,4 +40,7 @@ weight = 10
   url = "#contact"
   weight = 60
 
-
+#[[main]]
+#  name = "Photos"
+#  url = "photos/"
+#  weight = 60
