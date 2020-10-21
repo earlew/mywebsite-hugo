@@ -58,4 +58,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral scholar in Environmental Science and Engineering at Caltech. I am generally interested in polar oceanography, ice-ocean interactions, high-latitude climate change, and the global overturning circulation.
+I am a postdoctoral scholar working with [Professor Andy Thompson](http://web.gps.caltech.edu/~andrewt/) in the department of Environmental Science and Engineering at Caltech. I recently completed my PhD at the University of Washington, School of Oceanography, where I was advised by Professor Stephen Riser.
+
+I am generally in research problems relating to polar oceanography, ice-ocean interactions, high-latitude climate change, and the global ocean overturning circulation. My current postdoctoral work is focused on understanding the dynamics of subpolar gyres in the Southern Ocean and their coupling to the regional overturning circulation. To tackle these and other research problems, I use a wide array of observational and numerical tools, ranging from Argo profiling floats to general circulation models of the ocean.
