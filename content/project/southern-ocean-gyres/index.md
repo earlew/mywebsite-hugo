@@ -30,8 +30,6 @@ projects: []
 
 **Collaborators**: Andrew Thompson, Andrew Stewart, Shantong Sun
 
-### Subpolar gyres and their role in the overturning circulation of the Southern Ocean
-
 
 <figure>
 <img src="/img/temp_map.jpg" width="500" height="500" align="middle" alt="A schematic illustrating the discharge of subglacial meltwater into the ocean.">
