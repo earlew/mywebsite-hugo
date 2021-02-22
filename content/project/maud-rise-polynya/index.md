@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2019-10-15T14:51:02-07:00
-lastmod: 2019-10-15T14:51:02-07:00
+lastmod: 2021-02-15T14:51:02-07:00
 featured: false
 draft: false
 
@@ -32,9 +32,11 @@ projects: []
 **Collaborators**: [Ethan Campbell](https://ethan-campbell.github.io) (lead author), Stephen Riser, Kent Moore, Casey E. Brayton, Matthew R. Mazloff, and Lynne D. Talley 
 
 
-During the austral winters of 2016 and 2017, rare openings in the sea ice cover appeared in the southeastern Weddell Sea, near the Maud Rise seamount. These openings, otherwise known as offshore polynyas, were by far the largest to have appeared in the Southern Ocean since the late 1970s. More importantly, these polynyas occurred in the vicinity of two under-ice Argo floats. This coincidence granted us an unprecedented view of the upper ocean evolution during these polynya events.
+During the austral winters of 2016 and 2017, rare openings in the sea ice cover appeared in the southeastern Weddell Sea, near the Maud Rise seamount. These openings, otherwise known as offshore polynyas, were by far the largest to have appeared in the Southern Ocean since the late 1970s. More importantly, these polynyas occurred in the vicinity of two under-ice Argo floats, which granted us an unprecedented view of the upper ocean during these events.
 
-By combining the float measurements with concurrent atmospheric reanalysis and remotely-sensed sea ice observations, we were able to pinpoint the preconditions and triggers that led to these polynyas. In summary, we find that these events were due to a combination extremely weak upper ocean stratification and exceptionally strong surface winds (see [wintertime ice-ocean feedbacks]({{< ref "project/ice-ocean-feedbacks/index.md" >}}) ). These factors led to the complete erosion of the main pycnocline and convection that extended deep into ocean interior. The atmospheric conditions that led to the preconditioning of the water column and the uptick in storm activity were linked to decadal variations in the Southern Annular Mode (SAM). 
+By combining the float measurements with concurrent atmospheric and sea ice observations, we assess local environmental conditions leading up to and during these events. In summary, we find that anomalously weak upper ocean stratification preconditioned the area for strong upper ocean heat fluxes (see [wintertime ice-ocean feedbacks]({{< ref "project/ice-ocean-feedbacks/index.md" >}})). This susceptible ocean state was then perturbed by a series of unusually strong winter storms, which triggered deep convection and a subsequent violent release of deep ocean heat that melted the ice cover. Furthermore, we find that current regional climate trends associated with the Southern Annular Mode (SAM) favor the continued recurrence of these types of polynyas in the future. 
+
+For more details, see our publication below.
 
 
 **Publication**: E. Campbell, Wilson, E. A., G. W. K. Moore, S. C. Riser, C. Brayton, M. R. Mazloff and L. Talley (2019), Southern Hemisphere climate anomalies drive Antarctic sea ice openings, Nature, 570, 319--325, doi: [10.1038/s41586-019-1294-0](https://www.nature.com/articles/s41586-019-1294-0).

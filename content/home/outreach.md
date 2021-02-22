@@ -7,7 +7,7 @@ weight = 3  # Order that this section will appear in.
 title = "Outreach"
 
 +++
-I am currently a science communication fellow at the [Seattle Pacific Science Center](https://www.pacificsciencecenter.org/planetarium/). I have designed and presented multiple planetarium shows that showcase observational field work in the Southern Ocean. 
+While in graduate school, I was a science communication fellow at the [Seattle Pacific Science Center](https://www.pacificsciencecenter.org/planetarium/). Through this program, I participated in a science communication training course and designed a planetarium show that showcases fieldwork in the Southern Ocean.
 
 ---
 <!--![](/img/lakeside.jpg#floatright)-->

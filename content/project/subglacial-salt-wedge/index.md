@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2019-10-15T14:43:52-07:00
-lastmod: 2019-10-15T14:43:52-07:00
+lastmod: 2021-02-15T14:43:52-07:00
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ Using these experimental results, we demonstrate that our two-layer theory is ab
 
 **Note**: This work was supported by the WHOI GFD program.
 
-**Publication(s)**: "The dynamics of a subglacial salt wedge," Wilson, E, A. Wells, I. Hewitt, and C. Cenedese, *in prep* 
+**Publication(s)**: Wilson, E. A., A. Wells, I. Hewitt, and C. Cenedese (2020), The dynamics of a subglacial salt wedge, Journal of Fluid Mechanics, 895, A20. doi: 10.1017/jfm.2020.308.
 
 
 
