@@ -48,16 +48,15 @@ social:
   icon_pack: ai
   link: files/earle_wilson_CV.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+   
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am a postdoctoral scholar working with [Professor Andy Thompson](http://web.gps.caltech.edu/~andrewt/) in the department of Environmental Science and Engineering at Caltech. I completed my PhD at the University of Washington, School of Oceanography, where I was advised by Professor Stephen Riser.
+I am a postdoctoral scholar in the Department of Environmental Science and Engineering at Caltech, working in the [Oceans & Cryosphere, Theory & Observations Group](http://web.gps.caltech.edu/~andrewt/). I completed my PhD at the University of Washington, School of Oceanography, where I was advised by Professor Stephen Riser.
 
-I am generally in research problems relating to polar oceanography, ice-ocean interactions, and the global ocean overturning circulation. My current postdoctoral work is focused on understanding the dynamics of subpolar gyres in the Southern Ocean and their coupling to the regional overturning circulation. To tackle these and other research problems, I use a wide range of observational datasets, analytical methods, and numerical tools.
+I am interested in the dynamics of the ocean, their coupling with the cryosphere, and the diverse ways in which these processes combine to influence our global climate. My recent work has been focused on the Southern Ocean, an area of interest that has led me to explore the feedbacks between Antarctic sea ice growth and the ventilation of heat from the deep ocean, the dynamics of subpolar gyres and their interactions with seafloor topography, and the drivers of abrupt summertime surface warming events otherwise known as marine heatwaves. To investigate these problems I use a broad array of observations and numerical tools, ranging from in situ measurements to ocean general circulation models.
+
+Update: In the summer of 2022, I will join [Stanford](https://earth.stanford.edu/) as an assistant professor in the Department of Earth System Science. If you are in interested in working with me as a graduate student or postdoc, please contact me directly.
